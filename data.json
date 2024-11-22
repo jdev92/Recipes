@@ -1,0 +1,123 @@
+{
+  "recipes": [
+    {
+      "id": "1",
+      "img": "https://res.cloudinary.com/lereacteur-apollo/image/upload/v1731426185/apollo/alternance/react%20native/expo%20recipes/pates_xzqegs.jpg",
+      "title": "Pâtes Carbonara",
+      "preparationTime": 15,
+      "cookingTime": 12,
+      "ingredients": [
+        "400g de spaghetti",
+        "200g de lardons",
+        "3 œufs",
+        "100g de parmesan râpé",
+        "Poivre noir",
+        "Sel"
+      ],
+      "steps": [
+        "Faire bouillir l'eau des pâtes",
+        "Pendant ce temps, faire revenir les lardons",
+        "Battre les œufs avec le parmesan et le poivre",
+        "Cuire les pâtes al dente",
+        "Mélanger les pâtes avec les lardons",
+        "Ajouter le mélange œufs-fromage hors du feu"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "id": "2",
+      "img": "https://res.cloudinary.com/lereacteur-apollo/image/upload/v1731426185/apollo/alternance/react%20native/expo%20recipes/omelette_btcn4a.jpg",
+      "title": "Omelette aux champignons",
+      "preparationTime": 10,
+      "cookingTime": 8,
+      "ingredients": [
+        "3 œufs",
+        "200g de champignons de Paris",
+        "1 oignon",
+        "Beurre",
+        "Sel",
+        "Poivre"
+      ],
+      "steps": [
+        "Émincer l'oignon et les champignons",
+        "Faire revenir dans le beurre",
+        "Battre les œufs en omelette",
+        "Verser les œufs sur les champignons",
+        "Cuire à feu doux avec un couvercle"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "3",
+      "img": "https://res.cloudinary.com/lereacteur-apollo/image/upload/v1731426186/apollo/alternance/react%20native/expo%20recipes/ratatouille_fcl4vd.webp",
+      "title": "Ratatouille",
+      "preparationTime": 30,
+      "cookingTime": 45,
+      "ingredients": [
+        "2 aubergines",
+        "3 courgettes",
+        "2 poivrons",
+        "4 tomates",
+        "1 oignon",
+        "3 gousses d'ail",
+        "Huile d'olive",
+        "Herbes de Provence"
+      ],
+      "steps": [
+        "Couper tous les légumes en dés",
+        "Faire revenir l'oignon et l'ail",
+        "Ajouter les légumes un par un",
+        "Assaisonner avec les herbes",
+        "Laisser mijoter à feu doux",
+        "Rectifier l'assaisonnement"
+      ],
+      "difficulty": "medium"
+    },
+    {
+      "id": "4",
+      "img": "https://res.cloudinary.com/lereacteur-apollo/image/upload/v1731426186/apollo/alternance/react%20native/expo%20recipes/smoothie_zp2zzv.jpg",
+      "title": "Smoothie banane-fraise",
+      "preparationTime": 5,
+      "cookingTime": 0,
+      "ingredients": [
+        "2 bananes",
+        "200g de fraises",
+        "200ml de lait",
+        "1 yaourt nature",
+        "Miel (optionnel)"
+      ],
+      "steps": [
+        "Peler les bananes",
+        "Laver et équeuter les fraises",
+        "Mettre tous les ingrédients dans le blender",
+        "Mixer jusqu'à obtenir une consistance lisse"
+      ],
+      "difficulty": "easy"
+    },
+    {
+      "id": "5",
+      "img": "https://res.cloudinary.com/lereacteur-apollo/image/upload/v1731426185/apollo/alternance/react%20native/expo%20recipes/risotto_pnuvom.webp",
+      "title": "Risotto aux champignons",
+      "preparationTime": 20,
+      "cookingTime": 25,
+      "ingredients": [
+        "300g de riz arborio",
+        "250g de champignons",
+        "1 oignon",
+        "1L de bouillon de légumes",
+        "100g de parmesan",
+        "Vin blanc",
+        "Beurre"
+      ],
+      "steps": [
+        "Faire revenir l'oignon dans le beurre",
+        "Ajouter le riz et nacrer",
+        "Déglacer au vin blanc",
+        "Ajouter le bouillon petit à petit",
+        "Cuire les champignons séparément",
+        "Ajouter parmesan et champignons en fin de cuisson"
+      ],
+      "difficulty": "hard"
+    }
+  ]
+}
